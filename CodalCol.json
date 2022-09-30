@@ -1,0 +1,22 @@
+{
+    "TracingNo": "TracingNo",
+    "SuperVision": "SuperVision",
+    "Symbol": "Symbol",
+    "CompanyName": "CompanyName",
+    "UnderSupervision": "UnderSupervision",
+    "Title": "Title",
+    "LetterCode": "LetterCode",
+    "SentDateTime": "SentDateTime",
+    "PublishDateTime": "PublishDateTime",
+    "HasHtml": "HasHtml",
+    "Url": "Url",
+    "HasExcel": "HasExcel",
+    "HasPdf": "HasPdf",
+    "HasXbrl": "HasXbrl",
+    "HasAttachment": "HasAttachment",
+    "AttachmentUrl": "AttachmentUrl",
+    "PdfUrl": "PdfUrl",
+    "ExcelUrl": "ExcelUrl",
+    "XbrlUrl": "XbrlUrl",
+    "TedanUrl": "TedanUrl"
+}
