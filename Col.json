@@ -1,5 +1,6 @@
 {
     "jd": "JDate",
     "jm": "JMonth",
-    "tse_id": "TSETMC-ID"
+    "tse_id": "TSETMC-ID",
+    "ftic": "FirmTicker"
 }
