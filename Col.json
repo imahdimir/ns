@@ -2,5 +2,12 @@
     "jd": "JDate",
     "jm": "JMonth",
     "tse_id": "TSETMC-ID",
-    "ftic": "FirmTicker"
+    "ftic": "FirmTicker",
+    "d": "Date",
+    "ahi": "AdjHigh",
+    "alow": "AdjLow",
+    "aopen": "AdjOpen",
+    "aclose": "AdjClose",
+    "vol": "Volume",
+    "alast": "AdjLast"
 }
