@@ -9,5 +9,6 @@
     "aopen": "AdjOpen",
     "aclose": "AdjClose",
     "vol": "Volume",
-    "alast": "AdjLast"
+    "alast": "AdjLast",
+    "is_tse_open": "Is-TSE-Open"
 }
