@@ -13,5 +13,6 @@
     "is_tse_open": "Is-TSE-Open",
     "wd": "WeekDay",
     "rlo": "Return-SinceLastOpenDay",
-    "r1d": "Return-1WorkDay"
+    "r1d": "Return-1WorkDay",
+    "is_tic_open": "IsTickerOpen"
 }
