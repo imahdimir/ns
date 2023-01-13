@@ -14,5 +14,6 @@
     "wd": "WeekDay",
     "rlo": "Return-SinceLastOpenDay",
     "r1d": "Return-1WorkDay",
+    "r1dlf": "Return-1D-LinearFilled",
     "is_tic_open": "IsTickerOpen"
 }
