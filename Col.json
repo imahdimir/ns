@@ -12,6 +12,6 @@
     "alast": "AdjLast",
     "is_tse_open": "Is-TSE-Open",
     "wd": "WeekDay",
-    "rlo": "ReturnSinceLastOpenDay",
-    "onedr": "1WorkDayReturn"
+    "rlo": "Return-SinceLastOpenDay",
+    "r1d": "Return-1WorkDay"
 }
