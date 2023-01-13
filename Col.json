@@ -12,8 +12,8 @@
     "alast": "AdjLast",
     "is_tse_open": "Is-TSE-Open",
     "wd": "WeekDay",
-    "rlo": "Return-SinceLastOpenDay",
-    "r1d": "Return-1WorkDay",
-    "r1dlf": "Return-1D-LinearFilled",
+    "arlo": "AdjRet-SinceLastOpenDay",
+    "ar1d": "AdjRet-1WorkDay",
+    "ar1dlf": "AdjRet-1WorkDay-LinearFilled",
     "is_tic_open": "IsTickerOpen"
 }
