@@ -11,5 +11,6 @@
     "vol": "Volume",
     "alast": "AdjLast",
     "is_tse_open": "Is-TSE-Open",
-    "wd": "WeekDay"
+    "wd": "WeekDay",
+    "rlo": "ReturnSinceLastOpenDay"
 }
