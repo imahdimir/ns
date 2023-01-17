@@ -15,5 +15,6 @@
     "arlo": "AdjRet-SinceLastOpenDay",
     "ar1d": "AdjRet-1WorkDay",
     "ar1dlf": "AdjRet-1WorkDay-LinearFilled",
-    "is_tic_open": "IsTickerOpen"
+    "is_tic_open": "IsTickerOpen",
+    "ind_id": "Index-ID"
 }
