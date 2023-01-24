@@ -2,6 +2,7 @@
     "jd": "JDate",
     "jm": "JMonth",
     "tse_id": "TSETMC-ID",
+    "btic": "BaseTicker",
     "ftic": "FirmTicker",
     "d": "Date",
     "ahi": "AdjHigh",
