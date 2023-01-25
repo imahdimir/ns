@@ -5,6 +5,7 @@
     "tic": "Ticker",
     "btic": "BaseTicker",
     "ftic": "FirmTicker",
+    "name": "Name",
     "d": "Date",
     "ahi": "AdjHigh",
     "alow": "AdjLow",
