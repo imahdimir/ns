@@ -5,7 +5,7 @@
     "tic": "Ticker",
     "btic": "BaseTicker",
     "ftic": "FirmTicker",
-    "eftic": "EngFirmTicker",
+    "eng_ftic": "EngFirmTicker",
     "name": "Name",
     "d": "Date",
     "ahi": "AdjHigh",
