@@ -22,5 +22,6 @@
     "is_tic_open": "IsTickerOpen",
     "ind_id": "IndexID",
     "obsd": "ObsDate",
-    "close": "Close"
+    "close": "Close",
+    "tedpix_close": "TEDPIX-Close"
 }
