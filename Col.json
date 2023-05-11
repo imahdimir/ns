@@ -21,5 +21,6 @@
     "ar1dlf": "AdjRet-1WorkDay-LinearFilled",
     "is_tic_open": "IsTickerOpen",
     "ind_id": "IndexID",
-    "obsd": "ObsDate"
+    "obsd": "ObsDate",
+    "close": "Close"
 }
