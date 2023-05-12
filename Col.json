@@ -26,5 +26,7 @@
     "tedpix_close": "TEDPIX-Close",
     "rf_apr": "RiskFree-Rate-APR",
     "rf_d": "RiskFree-Rate-Daily",
-    "tedpix_ret": "TEDPIX-Return"
+    "tedpix_ret": "TEDPIX-Return",
+    "tedpix_exss_ret": "TEDPIX-Excess-Return",
+    "exss_ret": "Excess-Return"
 }
