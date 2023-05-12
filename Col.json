@@ -23,5 +23,7 @@
     "ind_id": "IndexID",
     "obsd": "ObsDate",
     "close": "Close",
-    "tedpix_close": "TEDPIX-Close"
+    "tedpix_close": "TEDPIX-Close",
+    "rf_apr": "RiskFree-Rate-APR",
+    "rf_d": "RiskFree-Rate-Daily"
 }
